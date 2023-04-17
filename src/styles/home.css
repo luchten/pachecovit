@@ -1,0 +1,54 @@
+.header {
+    background-image: url(/images/Halo-background.svg);
+    background-size: cover;
+    background-color: black;
+    background-position: center;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;    
+}
+
+.gameplays-section, .noticias-section {
+    background-color: #151515;    
+    color: white;
+    padding: 100px 0;
+}
+
+.gameplays-section h1, .noticias-section h2 {
+    font-size: 32px;
+}
+
+.gameplay-col {
+    height: 220px;
+}
+
+.gameplay-col img, .noticias-col img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 1px solid white;    
+}
+
+.ver-button {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-size: 22px;  
+    transition: 0.5s;  
+    width: 380px;
+    height: 107px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.ver-button:hover {
+    background-color: white;
+    color: black;
+}
+
+.noticias-col {
+    height: 320px;    
+}

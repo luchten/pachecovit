@@ -1,0 +1,14 @@
+.main-menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    top: 35px;
+    width: 100%;    
+}
+
+.main-menu-links a {
+    color: white;
+    font-size: 22px;
+    margin: 0 33px;
+}
