@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <Layout>
       <section className="header">
-        <img src="/images/Halo-Infinite-Logo.svg" alt="" />
+        <img src="/pachecovit/images/Halo-Infinite-Logo.svg" alt="" />
       </section>
 
       <section className="gameplays-section">
@@ -17,46 +17,46 @@ export default function Home() {
           <h1>ÚLTIMAS GAMEPLAYS</h1>
           <div className="row gx-4 my-md-4">
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
-            </div>
-          </div>
-          <div className="row gx-4 my-md-4">
-            <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
-            </div>
-            <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
-            </div>
-            <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
           </div>
           <div className="row gx-4 my-md-4">
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
           </div>
           <div className="row gx-4 my-md-4">
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
             <div className="col-md-4 my-2 my-md-0 gameplay-col">
-              <Link to="/"><img src="/images/gameplay.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
+            </div>
+          </div>
+          <div className="row gx-4 my-md-4">
+            <div className="col-md-4 my-2 my-md-0 gameplay-col">
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
+            </div>
+            <div className="col-md-4 my-2 my-md-0 gameplay-col">
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
+            </div>
+            <div className="col-md-4 my-2 my-md-0 gameplay-col">
+              <Link to="/"><img src="/pachecovit/images/gameplay.png" alt="" /></Link>
             </div>
           </div>
           <Link className="ver-button" to="/noticias">VER TODOS</Link>
@@ -68,18 +68,18 @@ export default function Home() {
           <h2>NOTÍCIAS</h2>
           <div className="row my-md-4 gx-4">
             <div className="col-md-6 my-2 my-md-0 noticias-col">
-              <Link to="/"><img src="/images/noticia.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/noticia.png" alt="" /></Link>
             </div>
             <div className="col-md-6 my-2 my-md-0 noticias-col">
-              <Link to="/"><img src="/images/noticia.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/noticia.png" alt="" /></Link>
             </div>
           </div>
           <div className="row my-md-4 gx-4">
             <div className="col-md-6 my-2 my-md-0 noticias-col">
-              <Link to="/"><img src="/images/noticia.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/noticia.png" alt="" /></Link>
             </div>
             <div className="col-md-6 mt-2 mb-4 my-md-0 noticias-col">
-              <Link to="/"><img src="/images/noticia.png" alt="" /></Link>
+              <Link to="/"><img src="/pachecovit/images/noticia.png" alt="" /></Link>
             </div>
           </div>
           <Link className="ver-button" to="/noticias">VER MAIS</Link>
